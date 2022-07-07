@@ -1,0 +1,22 @@
+.bg-white {
+  --bs-bg-opacity: 1;
+  background-color: rgba(100,7,170,0.86) !important;
+}
+
+.navbar-light .navbar-nav .show > .nav-link, .navbar-light .navbar-nav .nav-link.active {
+  color: rgb(255,255,255) !important;
+}
+
+.navbar-light .navbar-toggler {
+  color: white !important;
+  border-color: white !important;
+}
+
+.navbar-light .navbar-toggler-icon {
+  background-image: url("../../assets/img/BurgerButton_transparent.png");
+}
+
+.clean-navbar .navbar-nav .nav-item {
+  padding-right: 2rem;
+}
+
